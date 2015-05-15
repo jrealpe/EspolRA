@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Loading...</string>
+    <string name="app_name">Espol RA</string>
+    <string name="app_settings">Settings</string>
+    <string name="app_help">Help</string>
+    <string name="app_voicesearch">Busqueda por voz</string>
+    <string name="app_about">Acerca...</string>
+    <string name="about_title">Acerca...</string>
+    <string name="about_message">Application by android10 Team.\n\nhttp://www.android10.org/\nOur free android community!!!\nhello@android10.org</string>
+    <string name="about_button">Close</string>
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="error_notconnection">No hay conexión a internet</string>
+    <string name="error_nolocation_title">No se pudo encontrar Ubicación</string>
+    <string name="error_nolocation_message">Ubicacion no encontrada...</string>
+    <string name="map_location_uri_mcdonalds">geo:0,0?q=McDonalds</string>
+    <string name="map_location_uri_burgerking">geo:0,0?q=Burger King</string>
+    <string name="map_location_uri_pizzahut">geo:0,0?q=pizza hut</string>
+    <string name="map_location_uri_pansandcompany">geo:0,0?q=pans and company</string>
+    <string name="map_location_uri_starbucks">geo:0,0?q=starbucks</string>
+    <string name="map_location_uri_dunkindonuts">geo:0,0?q=dunkin donuts</string>
+    <string name="map_location_uri_custom">geo:0,0?q=</string>
+    <string name="choose_action_title">Completar usando:</string>
+    <string name="choose_action_maps">Mapas</string>
+    <string name="choose_action_augmentedreality">Realidad Aumentada</string>
+    <string name="popup_ar_btn_call">Llamar al lugar</string>
+    <string name="popup_ar_btn_streetview">Street View</string>
+    <string name="popup_ar_btn_close">Cerrar</string>
+    <string name="popup_ar_msg_address">Direccion:</string>
+    <string name="popup_ar_msg_phonenumber">Numero de Telefono:</string>
+    <string name="loading_ar_msg">Cargando sitios...</string>
+    <string name="voice_not_results_msg">No hay resultados para el reconocimiento de voz</string>
+    <string name="voice_find_msg">Encontrar un sitio verde</string>
+    <string name="voice_notavailable_msg">Voz no disponible</string>
+    <string name="marker_distance_dist">DIST. </string>
+    <string name="marker_distance_km"> KM</string>
+    <string name="marker_distance_carryreturn">\r\n</string>
+   
+    
+    <string name="search_hint">Buscar Lugar</string>
+    
+    <string name="N">N</string>
+    <string name="NE">NE</string>
+    <string name="E">E</string>
+    <string name="SE">SE</string>
+    <string name="S">S</string>
+    <string name="SW">SW</string>
+    <string name="W">W</string>
+    <string name="NW">NW</string>
+    
+
+    <string name="empty_list">Lo sentimos,\nNo hay información de ubicación \ndisponibles dentro de este radio.\nPor favor, intenta buscar en un rango más amplio.</string>
+	<string name="option_not_available">Lo sentimos, pero estamos trabajando en ello ... opción \nEste estará disponible muy pronto!</string>
+	
+	<string name="license">Copyright http://www.android10.org/ 
+		\n\nEste programa es software libre: usted puede redistribuirlo y / o modificarlo bajo los términos de la Licencia Pública General GNU publicada por la Fundación para el Software Libre, ya sea la versión 3 de la Licencia, o según su elección) cualquier versión posterior.
+\n\nEste programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la GNU General Public
+Licencia para más detalles.
+		\n\n Mira &lt;http://www.gnu.org/licenses/&gt;
+	</string>
+	
+	<string name="menu_item_1">Fuente de Datos</string>
+	<string name="menu_item_2">Vista Lista</string>
+	<string name="menu_item_3">Vista Mapa</string>
+	<string name="menu_item_4">Nivel de Zoom</string>
+	<string name="menu_item_5">Buscar</string>
+	<string name="menu_item_6">Info</string>
+	<string name="menu_item_7">Licencia</string>
+	
+	
+	<string name="connection_error_dialog">Lo sentimos, un error de conexión ha ocurrido! comprobar \ nPor favor, si está conectado a Internet.</string>
+	<string name="connection_error_dialog_button1">Vuelva a intentar</string>
+	<string name="connection_error_dialog_button2">Abrir Configuración</string>
+	<string name="connection_error_dialog_button3">Cerrar App</string>
+	
+	<string name="connection_GPS_dialog_text">La ubicación GPS no se puede actualizar ... \nSi continúa podría ser que la información
+no \n se mostrará en el lugar correcto.</string>
+	<string name="connection_GPS_dialog_button1">Continuar</string>
+	<string name="connection_GPS_dialog_button2">Cerrar</string>
+	
+	<string name="no_website_available">Lo sentimos, no hay más information \n disponible.</string>
+	
+	<string name="license_title">Licencia</string>
+	<string name="close_button">Cerrar</string>
+	<string name="general_info_title">Informacion General</string>
+	
+	<string name="general_info_text">GPS info: </string>
+	<string name="longitude">Longitude: </string>
+	<string name="latitude">Latitude: </string>
+	<string name="altitude">Altitude: </string>
+	<string name="speed">Speed: </string>
+	<string name="accuracy">Accuracy: </string>
+	<string name="gps_last_fix">Last GPS fix: </string>
+	
+	<string name="map_menu_normal_mode">Map</string>
+	<string name="map_menu_satellite_mode">Satellite</string>
+	<string name="map_menu_cam_mode">Camera</string>
+	<string name="map_my_location">My Location</string>
+	
+	<string name="map_current_location_click">Su ubicación actual</string>
+	
+	<string name="data_source_change_wikipedia">Changed to Wikipedia as data source</string>
+	<string name="data_source_change_twitter">Changed to Twitter as data source</string>
+	<string name="data_source_change_buzz">Changed to Google Buzz as data source</string>
+	<string name="data_source_change_osm">Changed to OpenStreetMap as data source</string>
+	
+	<string name="search_failed_notification">No hay resultados de la búsqueda</string>
+	<string name="source_openstreetmap">Stations around</string>
+	
+	<string name="search_active_1">Buscar en la fuente de datos</string>
+	<string name="search_active_2">. Toque para terminar de búsqueda</string>
+</resources>
